@@ -7,4 +7,5 @@ function stringlength(string){
 }
 
 console.log(stringlength('ali aslma akram'));
-module.exports = stringlength
+
+module.exports = stringlength;
